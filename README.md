@@ -1,0 +1,2 @@
+# DataSpark---Illuminating-Insights-for-Global-Electronics
+This project focuses on retail analytics for Global Electronics, aiming to enhance customer satisfaction, optimize operations, and drive business growth through comprehensive EDA. It involves data cleaning, SQL database, visualization using Power BI and insights into customer behavior, sales trends, product performance, and store operations.

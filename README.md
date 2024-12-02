@@ -11,8 +11,11 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
 # Tools Used:
 
 Jupyter notebook and pycharm - IDE
+
 Python, Pandas, Matplotlib, Seaborn - Data cleaning, exploratory data analysis
+
 My SQL - Database to store and retrieve cleaned data
+
 Power BI - Visualization
 
 # Data Sources:
@@ -79,7 +82,7 @@ The customers are bucketed based on their age and then visualised using the line
      
 We can see that the people over 75 years are higher in counts than others
       
-**Gender Analysis:**
+**Location Analysis:**
 
 The locations wise analysis was represented using the world map.
 
@@ -120,13 +123,21 @@ We can see the stores with the highest area are not the highest selling.
 
 If the age of the store is between 10-15 then they are contributing to the highest amount of sales.
 
-**Overall Analysis**
+**Overall Analysis:**
 
 After seeing the total revenue, it has been understood that the sales from north American stores are the highest.
 
 There are very less number of stores in Australia which can cost us the opportunity.
 
 Spreading the company across the Australia can help the company grow its sales well.
+
+# Power BI Reports 
+
+  1. customer_analysis_powerbi.jpg
+  2. sales_analysis_powerbi.jpg
+  3. product_analysis_powerbi.jpg
+  4. store_analysis_powerbi.jpg
+
 
 
 

@@ -45,7 +45,26 @@ Connecting SQL to Power BI/Tableau, import the data, and create interactive dash
 
 Formulating and executing SQL and Dax queries to extract key insights from the data.
 
-# Analysis Steps:
+# Analaysis Steps
+
+**Customer Analysis**
+
+Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent). Purchase Patterns: Identify purchasing patterns such as average order value, frequency of purchases, and preferred products. Segmentation: Segment customers based on demographics and purchasing behavior to identify key customer groups.
+
+**Sales Analysis**
+
+Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality Sales by Product: Evaluate which products are the top performers in terms of quantity sold and revenue generated. Sales by Store: Assess the performance of different stores based on sales data. Sales by Currency: Examine how different currencies impact sales figures, considering exchange rates.
+
+**Product Analysis**
+
+Product Popularity: Identify the most and least popular products based on sales data. Profitability Analysis: Calculate profit margins for products by comparing unit cost and unit price. Category Analysis: Analyze sales performance across different product categories and subcategories.
+
+**Store Analysis**
+
+Store Performance: Evaluate store performance based on sales, size (square meters), and operational data (open date). Geographical Analysis: Analyze sales by store location to identify high-performing regions.
+
+
+# Results\Findings
 
 # 1. Customer Analysis
 **Gender Analysis:**
@@ -67,6 +86,49 @@ The locations wise analysis was represented using the world map.
 The darkness of the colour says about the intensity of sales from that area.
 
 The country wise analysis suggests that the North America is having Highest sales.
+
+# 2. Sales Analysis
+**Monthly sales:**
+
+We can see the highest sales are there in Feb, Dec and Jan for which the inventory should be ready to face the hike in demand.
+
+The April and march month has recorded the lowest sales which can be overcome by doing proper marketing and maintaining good product portfolio.
+
+**Top Performers:**
+
+We can see that the computers are the top performers maintaining good SKU based on colours is important as we can see good proportion in each color.
+
+# 3. Product Analysis
+**Profit Margin by Top products:**
+
+From the Pie chart, that has been shown for the top 10 products. It understood that the 10 top products are not uniformly distributed, they are properly distributed suggesting good signs.
+
+**Top 10 Feequency Products:**
+
+The top selling products are from the Desktop and computer segment.
+
+It recommended to maintain sufficient inventory to meet the customer demand.
+
+# 4. Store Analysis
+**Store Size analysis:**
+
+We can see that the stores with the area between 1750 to 2000 are contributing to morethan 50% of the entire sales.
+
+We can see the stores with the highest area are not the highest selling.
+
+**Store Age analysis:**
+
+If the age of the store is between 10-15 then they are contributing to the highest amount of sales.
+
+**Overall Analysis**
+
+After seeing the total revenue, it has been understood that the sales from north American stores are the highest.
+
+There are very less number of stores in Australia which can cost us the opportunity.
+
+Spreading the company across the Australia can help the company grow its sales well.
+
+
 
 
 

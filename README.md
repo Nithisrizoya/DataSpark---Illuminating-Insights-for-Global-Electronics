@@ -66,6 +66,13 @@ Product Popularity: Identify the most and least popular products based on sales 
 
 Store Performance: Evaluate store performance based on sales, size (square meters), and operational data (open date). Geographical Analysis: Analyze sales by store location to identify high-performing regions.
 
+**See the SQL Query in**
+
+              1.customer_analysis.sql
+              2.sales_analysis.sql
+              3.product_analysis.sql
+              4.store_analysis.sql
+
 
 # Results\Findings
 
@@ -135,12 +142,6 @@ Spreading the company across the Australia can help the company grow its sales w
 
    PowerBI_Visuals.pptx
 
-**See the SQL Query in**
-
-              1.customer_analysis.sql
-              2.sales_analysis.sql
-              3.product_analysis.sql
-              4.store_analysis.sql
 
 
 

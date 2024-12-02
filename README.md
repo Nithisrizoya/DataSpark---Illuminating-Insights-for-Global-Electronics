@@ -133,12 +133,14 @@ Spreading the company across the Australia can help the company grow its sales w
 
 # Power BI Reports 
 
-  1. customer_analysis_powerbi.jpg
-  2. sales_analysis_powerbi.jpg
-  3. product_analysis_powerbi.jpg
-  4. store_analysis_powerbi.jpg
+   PowerBI_Visuals.pptx
 
+**See the SQL Query in**
 
+              1.customer_analysis.sql
+              2.sales_analysis.sql
+              3.product_analysis.sql
+              4.store_analysis.sql
 
 
 

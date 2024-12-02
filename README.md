@@ -48,12 +48,12 @@ Formulating and executing SQL and Dax queries to extract key insights from the d
 # Analysis Steps:
 
 # 1. Customer Analysis
-      **Gender Analysis:**
-         We can see the male customers are dominating in number when compared to female.
-         Female targeted advertisements can help us fight this imbalance and grow overall sales.
+**Gender Analysis:**
+      We can see the male customers are dominating in number when compared to female.
+      Female targeted advertisements can help us fight this imbalance and grow overall sales.
 
-      **Age Analysis:**
-          The customers are bucketed based on their age and then visualised using the bar chart.
-          We can see that the people above 65 years are higher in counts than others
+**Age Analysis:**
+     The customers are bucketed based on their age and then visualised using the bar chart.
+      We can see that the people above 65 years are higher in counts than others
 
 

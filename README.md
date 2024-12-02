@@ -50,10 +50,21 @@ Formulating and executing SQL and Dax queries to extract key insights from the d
 # 1. Customer Analysis
 **Gender Analysis:**
       We can see the male customers are dominating in number when compared to female.
+      
       Female targeted advertisements can help us fight this imbalance and grow overall sales.
 
 **Age Analysis:**
-     The customers are bucketed based on their age and then visualised using the bar chart.
-      We can see that the people above 65 years are higher in counts than others
+     The customers are bucketed based on their age and then visualised using the line chart.
+     
+      We can see that the people over 75 years are higher in counts than others
+      
+**Gender Analysis:**
+    The locations wise analysis was represented using the world map.
+
+    The darkness of the colour says about the intensity of sales from that area.
+
+    The country wise analysis suggests that the North America is having Highest sales.
+
+
 
 

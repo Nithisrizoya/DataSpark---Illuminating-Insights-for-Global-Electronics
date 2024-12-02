@@ -1,8 +1,8 @@
 -- Query to Age Distribution
 
-SELECT gender, COUNT(*) AS Count_gender
+SELECT Gender, COUNT(*) AS Count_gender
 FROM customers
-GROUP BY gender;
+GROUP BY Gender;
 
  -- Query to segment customers based on age
 SELECT 
@@ -22,11 +22,11 @@ FROM
 
 -- country wise customer count
 SELECT 
-    continent,country,state,city, 
+    Continent_customer,Country_customer,State_customer,City_customer, 
     COUNT(CustomerKey) AS customer_count
 FROM 
     CUSTOMERS
 GROUP BY 
-    continent,country,state,city
+    Continent_customer,Country_customer,State_customer,City_customer
 ORDER BY 
     customer_count DESC

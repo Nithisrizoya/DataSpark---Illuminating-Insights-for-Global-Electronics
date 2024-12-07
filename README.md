@@ -124,7 +124,7 @@ It recommended to maintain sufficient inventory to meet the customer demand.
 
 We can see that the stores with the area between 1750 to 2000 are contributing to morethan 50% of the entire sales.
 
-We can see the stores with the highest area are not the highest selling.
+We can see the stores with the highest area are the highest selling.
 
 **Store Age analysis:**
 
